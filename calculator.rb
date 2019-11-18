@@ -1,2 +1,2 @@
-let first_number = 2
+first_number = 2
 
